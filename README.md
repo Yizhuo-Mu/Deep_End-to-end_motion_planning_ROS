@@ -4,7 +4,7 @@
 
 
 This work aims at implementing end-to-end motion planning in ROS stage simulator which is a reproduction of the paper "Pfeiffer M , Schaeuble M , Nieto J , et al. From Perception to Decision: A Data-driven Approach to End-to-end Motion Planning for Autonomous Ground Robots[J]. 2016."
- The deep neural network is a CNN with 2 ResNet block using the 1080-dimensional LiDAR measurement.The trainning is done in a supervised fashion using ROS navigation stack demonstrations.
+The deep neural network is a CNN with 2 ResNet block using the 1080-dimensional LiDAR measurement.The trainning is done in a supervised fashion using ROS navigation stack demonstrations.
 
 
 ### Dependencies
